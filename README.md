@@ -1,6 +1,8 @@
 👋 Hi, I’m @JGlessner757
 I’m passionate about leveraging advanced analytics, machine learning, and AI to drive productivity and operational efficiency in businesses. With a strong background in data science, I focus on helping teams operationalize data-driven solutions, making sure the tools they adopt are seamlessly integrated into their workflows.
 
+🚨 UPDATE: Holy shit, I PASSED!  Im now AWS Certified Cloud Practitioner.  Not gonna lie, halfway through the test I was already thinking of ways to explain why I failed.  Had no idea about the first four questions...but somehow got hot at the end and got the job done.  Looking forward to the doors this unlocks.
+
 👀 I’m interested in ...
 Machine Learning (ML) and AI operationalization, 
 Data science projects that improve business processes, 
@@ -9,7 +11,7 @@ Automating menial tasks to enhance productivity,
 Building intuitive chatbots and AI-driven tools.
 
 🌱 I’m currently learning ...
-AWS Cloud Practitioner exam preparation, 
+How to develop an app from nothing,
 Advanced AWS services for AI, 
 Enhancing my chatbot development skills.
 
@@ -23,7 +25,7 @@ LinkedIn: linkedin.com/josh-glessner-va-beach,
 Email: Available upon request
 
 ⚡ Fun fact:
-In addition to my tech pursuits, I’m also a dynamic public speaker who has coached sales teams and professionals to master tech tools and analytics, saving thousands of hours of manual work.  Im also a former coach and huge football fanatic.
+In addition to my tech pursuits, I’m also a dynamic public speaker who has coached sales teams and professionals to master tech tools and analytics, saving thousands of hours of manual work.  Im also a former linebackers coach and football fanatic.
 
 <!---
 Gmuman7/Gmuman7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

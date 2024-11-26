@@ -1,9 +1,9 @@
 👋 Hi, I’m @JGlessner757
 I’m passionate about leveraging advanced analytics, machine learning, and AI to drive productivity and operational efficiency in businesses. With a strong background in data science, I focus on helping teams operationalize data-driven solutions, making sure the tools they adopt are seamlessly integrated into their workflows.
 
-🚨 UPDATE: Holy shit, I PASSED!  Im now AWS Certified Cloud Practitioner.  Not gonna lie, halfway through the test I was already thinking of ways to explain why I failed.  Had no idea about the first four questions...but somehow got hot at the end and got the job done.  Looking forward to the doors this unlocks.
+🚨 UPDATE: I PASSED!  Im now AWS Certified Cloud Practitioner.  🎉🥳
 
-👀 I’m interested in ...
+🤔 I’m interested in ...
 Machine Learning (ML) and AI operationalization, 
 Data science projects that improve business processes, 
 Cloud technologies like AWS, 
